@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (63종)
+## 도구 목록 (91종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -24,6 +24,10 @@
 | 이미지 텍스트 추출(OCR) | [teck-tani.com/ko/image-to-text-ocr](https://teck-tani.com/ko/image-to-text-ocr) |
 | 이미지 합치기 | [teck-tani.com/ko/image-merge](https://teck-tani.com/ko/image-merge) |
 | 사진 모자이크·블러 | [teck-tani.com/ko/photo-blur](https://teck-tani.com/ko/photo-blur) |
+| QR코드 스캔 | [teck-tani.com/ko/qr-scanner](https://teck-tani.com/ko/qr-scanner) |
+| MP4 MP3 변환 (음원 추출) | [teck-tani.com/ko/mp4-to-mp3](https://teck-tani.com/ko/mp4-to-mp3) |
+| 동영상 압축 (용량 줄이기) | [teck-tani.com/ko/video-compressor](https://teck-tani.com/ko/video-compressor) |
+| 배경 제거 (누끼따기) | [teck-tani.com/ko/background-remover](https://teck-tani.com/ko/background-remover) |
 
 ### 📝 텍스트/변환 — [전체 보기](https://teck-tani.com/ko/tools/text)
 | 도구 | 링크 |
@@ -50,6 +54,19 @@
 | 온라인 메모장 | [teck-tani.com/ko/notepad](https://teck-tani.com/ko/notepad) |
 | 워드클라우드 생성기 | [teck-tani.com/ko/word-cloud-generator](https://teck-tani.com/ko/word-cloud-generator) |
 | PDF 비밀번호 해제 | [teck-tani.com/ko/pdf-unlock](https://teck-tani.com/ko/pdf-unlock) |
+| PDF 압축 (용량 줄이기) | [teck-tani.com/ko/pdf-compressor](https://teck-tani.com/ko/pdf-compressor) |
+| 텍스트 줄 정렬 | [teck-tani.com/ko/sort-lines](https://teck-tani.com/ko/sort-lines) |
+| 문자열 찾기·바꾸기 | [teck-tani.com/ko/find-replace](https://teck-tani.com/ko/find-replace) |
+| 텍스트 역순 변환 | [teck-tani.com/ko/reverse-text](https://teck-tani.com/ko/reverse-text) |
+| 로마 숫자 변환 | [teck-tani.com/ko/roman-numeral](https://teck-tani.com/ko/roman-numeral) |
+| 한글 자모 분리·결합 | [teck-tani.com/ko/hangul-jamo](https://teck-tani.com/ko/hangul-jamo) |
+| 초성 추출기 | [teck-tani.com/ko/chosung-maker](https://teck-tani.com/ko/chosung-maker) |
+| 줄 번호 추가·제거 | [teck-tani.com/ko/line-numbering](https://teck-tani.com/ko/line-numbering) |
+| 숫자 한글 변환기 | [teck-tani.com/ko/number-to-korean](https://teck-tani.com/ko/number-to-korean) |
+| 모스 부호 변환기 | [teck-tani.com/ko/morse-code](https://teck-tani.com/ko/morse-code) |
+| ROT13·시저 암호 변환기 | [teck-tani.com/ko/rot13-cipher](https://teck-tani.com/ko/rot13-cipher) |
+| URL 슬러그 생성기 | [teck-tani.com/ko/slugify](https://teck-tani.com/ko/slugify) |
+| HTML 태그 제거기 | [teck-tani.com/ko/strip-html](https://teck-tani.com/ko/strip-html) |
 
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
@@ -63,6 +80,11 @@
 | 점심메뉴 추천 룰렛 | [teck-tani.com/ko/lunch-picker](https://teck-tani.com/ko/lunch-picker) |
 | 돌림판 룰렛 추첨기 | [teck-tani.com/ko/spin-wheel](https://teck-tani.com/ko/spin-wheel) |
 | 메트로놈(박자기) | [teck-tani.com/ko/metronome](https://teck-tani.com/ko/metronome) |
+| 반응속도 테스트 | [teck-tani.com/ko/reaction-test](https://teck-tani.com/ko/reaction-test) |
+| 밸런스 게임 | [teck-tani.com/ko/balance-game](https://teck-tani.com/ko/balance-game) |
+| 성격유형 테스트 | [teck-tani.com/ko/personality-test](https://teck-tani.com/ko/personality-test) |
+| 꿈해몽 사전 | [teck-tani.com/ko/dream-dictionary](https://teck-tani.com/ko/dream-dictionary) |
+| 키보드 테스트 | [teck-tani.com/ko/keyboard-test](https://teck-tani.com/ko/keyboard-test) |
 
 ### 🛠️ 개발 도구 — [전체 보기](https://teck-tani.com/ko/tools/devtools)
 | 도구 | 링크 |
@@ -84,6 +106,12 @@
 | JSON CSV 변환 | [teck-tani.com/ko/json-csv-converter](https://teck-tani.com/ko/json-csv-converter) |
 | 대소문자·케이스 변환 | [teck-tani.com/ko/case-converter](https://teck-tani.com/ko/case-converter) |
 | 이미지 Base64 변환 | [teck-tani.com/ko/image-to-base64](https://teck-tani.com/ko/image-to-base64) |
+| 들여쓰기 변환기 | [teck-tani.com/ko/indent-converter](https://teck-tani.com/ko/indent-converter) |
+| 진법 변환기 | [teck-tani.com/ko/number-base-converter](https://teck-tani.com/ko/number-base-converter) |
+| 유니코드 이스케이프 변환기 | [teck-tani.com/ko/unicode-escape](https://teck-tani.com/ko/unicode-escape) |
+| 유니코드 문자 분석기 | [teck-tani.com/ko/unicode-inspector](https://teck-tani.com/ko/unicode-inspector) |
+| JSON 구조 비교기 | [teck-tani.com/ko/json-diff](https://teck-tani.com/ko/json-diff) |
+| Markdown 표 생성기 | [teck-tani.com/ko/markdown-table-generator](https://teck-tani.com/ko/markdown-table-generator) |
 
 ## 관련 사이트
 - 🧮 계산기 모음 → [calc-tani.com](https://calc-tani.com)
@@ -102,7 +130,7 @@
 - TypeScript
 - Tailwind CSS 4
 - next-intl (i18n)
-- Vercel (Hosting)
+- 자체 홈서버 (Next.js standalone · Nginx · Cloudflare Tunnel)
 
 ## 라이선스
 
