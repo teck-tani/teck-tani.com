@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (136종)
+## 도구 목록 (140종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -90,6 +90,10 @@
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
 |------|------|
+| 점수판·스코어보드 | [teck-tani.com/ko/scoreboard](https://teck-tani.com/ko/scoreboard) |
+| 빙고판 생성기 | [teck-tani.com/ko/bingo-generator](https://teck-tani.com/ko/bingo-generator) |
+| 진실 혹은 도전 | [teck-tani.com/ko/truth-or-dare](https://teck-tani.com/ko/truth-or-dare) |
+| 오늘의 명언 | [teck-tani.com/ko/quote-of-the-day](https://teck-tani.com/ko/quote-of-the-day) |
 | 이상형 월드컵 만들기 | [teck-tani.com/ko/world-cup-maker](https://teck-tani.com/ko/world-cup-maker) |
 | 가위바위보 | [teck-tani.com/ko/rock-paper-scissors](https://teck-tani.com/ko/rock-paper-scissors) |
 | 자리 배치·자리뽑기 | [teck-tani.com/ko/seat-randomizer](https://teck-tani.com/ko/seat-randomizer) |
