@@ -4,11 +4,15 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (120종)
+## 도구 목록 (124종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
 |------|------|
+| 이미지 ASCII 아트 | [teck-tani.com/ko/image-to-ascii](https://teck-tani.com/ko/image-to-ascii) |
+| 사진 콜라주 | [teck-tani.com/ko/photo-collage](https://teck-tani.com/ko/photo-collage) |
+| 인스타 9분할 이미지 | [teck-tani.com/ko/instagram-grid-splitter](https://teck-tani.com/ko/instagram-grid-splitter) |
+| 긴 이미지 분할 | [teck-tani.com/ko/image-splitter](https://teck-tani.com/ko/image-splitter) |
 | 이미지 자르기 | [teck-tani.com/ko/image-crop](https://teck-tani.com/ko/image-crop) |
 | 이미지 회전·반전 | [teck-tani.com/ko/image-rotate](https://teck-tani.com/ko/image-rotate) |
 | 이미지 필터 | [teck-tani.com/ko/image-filter](https://teck-tani.com/ko/image-filter) |
