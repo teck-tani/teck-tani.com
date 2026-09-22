@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (100종)
+## 도구 목록 (115종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -90,6 +90,10 @@
 | 키보드 테스트 | [teck-tani.com/ko/keyboard-test](https://teck-tani.com/ko/keyboard-test) |
 | 사업자등록번호 형식 검사 | [teck-tani.com/ko/business-number-validator](https://teck-tani.com/ko/business-number-validator) |
 
+| 마우스 테스트 | [teck-tani.com/ko/mouse-test](https://teck-tani.com/ko/mouse-test) |
+| 터치스크린 테스트 | [teck-tani.com/ko/touch-test](https://teck-tani.com/ko/touch-test) |
+| 주사율 추정 테스트 | [teck-tani.com/ko/refresh-rate-test](https://teck-tani.com/ko/refresh-rate-test) |
+| 내 화면·디스플레이 정보 | [teck-tani.com/ko/screen-info](https://teck-tani.com/ko/screen-info) |
 
 ### 🛠️ 개발 도구 — [전체 보기](https://teck-tani.com/ko/tools/devtools)
 | 도구 | 링크 |
@@ -124,6 +128,17 @@
 | CSS 박스 그림자 생성기 | [teck-tani.com/ko/box-shadow-generator](https://teck-tani.com/ko/box-shadow-generator) |
 | CSS 그라데이션 생성기 | [teck-tani.com/ko/gradient-generator](https://teck-tani.com/ko/gradient-generator) |
 
+| 내 브라우저·시스템 정보 | [teck-tani.com/ko/browser-info](https://teck-tani.com/ko/browser-info) |
+| JSON ↔ YAML 변환기 | [teck-tani.com/ko/json-yaml-converter](https://teck-tani.com/ko/json-yaml-converter) |
+| XML ↔ JSON 변환기 | [teck-tani.com/ko/xml-json-converter](https://teck-tani.com/ko/xml-json-converter) |
+| HTML 포맷터 | [teck-tani.com/ko/html-formatter](https://teck-tani.com/ko/html-formatter) |
+| JavaScript 압축기 | [teck-tani.com/ko/js-minifier](https://teck-tani.com/ko/js-minifier) |
+| 목 데이터 생성기 | [teck-tani.com/ko/mock-data-generator](https://teck-tani.com/ko/mock-data-generator) |
+| .gitignore 생성기 | [teck-tani.com/ko/gitignore-generator](https://teck-tani.com/ko/gitignore-generator) |
+| 라이선스 생성기 | [teck-tani.com/ko/license-generator](https://teck-tani.com/ko/license-generator) |
+| User-Agent 분석기 | [teck-tani.com/ko/user-agent-parser](https://teck-tani.com/ko/user-agent-parser) |
+| 비밀번호 강도 검사 | [teck-tani.com/ko/password-strength-checker](https://teck-tani.com/ko/password-strength-checker) |
+| 코드 이미지 만들기 | [teck-tani.com/ko/code-to-image](https://teck-tani.com/ko/code-to-image) |
 
 ## 관련 사이트
 - 🧮 계산기 모음 → [calc-tani.com](https://calc-tani.com)
