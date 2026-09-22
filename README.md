@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (148종)
+## 도구 목록 (151종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -92,6 +92,9 @@
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
 |------|------|
+| 정신연령 테스트 · 생활 태도 탐색 | [teck-tani.com/ko/mental-age-test](https://teck-tani.com/ko/mental-age-test) |
+| 전생 이야기 테스트 | [teck-tani.com/ko/past-life-test](https://teck-tani.com/ko/past-life-test) |
+| 에니어그램 27문항 탐색 | [teck-tani.com/ko/enneagram-test](https://teck-tani.com/ko/enneagram-test) |
 | 초성 퀴즈 | [teck-tani.com/ko/chosung-quiz](https://teck-tani.com/ko/chosung-quiz) |
 | 집중력 게임 · 숫자 찾기·색말 | [teck-tani.com/ko/concentration-test](https://teck-tani.com/ko/concentration-test) |
 | 색각 참고 체험·숫자 점판 | [teck-tani.com/ko/color-blind-test](https://teck-tani.com/ko/color-blind-test) |
