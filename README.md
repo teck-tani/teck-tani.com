@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (91종)
+## 도구 목록 (100종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -67,6 +67,9 @@
 | ROT13·시저 암호 변환기 | [teck-tani.com/ko/rot13-cipher](https://teck-tani.com/ko/rot13-cipher) |
 | URL 슬러그 생성기 | [teck-tani.com/ko/slugify](https://teck-tani.com/ko/slugify) |
 | HTML 태그 제거기 | [teck-tani.com/ko/strip-html](https://teck-tani.com/ko/strip-html) |
+| HTML → Markdown 변환 | [teck-tani.com/ko/html-to-markdown](https://teck-tani.com/ko/html-to-markdown) |
+| 글자 깨짐 복구 | [teck-tani.com/ko/encoding-fixer](https://teck-tani.com/ko/encoding-fixer) |
+
 
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
@@ -85,6 +88,8 @@
 | 성격유형 테스트 | [teck-tani.com/ko/personality-test](https://teck-tani.com/ko/personality-test) |
 | 꿈해몽 사전 | [teck-tani.com/ko/dream-dictionary](https://teck-tani.com/ko/dream-dictionary) |
 | 키보드 테스트 | [teck-tani.com/ko/keyboard-test](https://teck-tani.com/ko/keyboard-test) |
+| 사업자등록번호 형식 검사 | [teck-tani.com/ko/business-number-validator](https://teck-tani.com/ko/business-number-validator) |
+
 
 ### 🛠️ 개발 도구 — [전체 보기](https://teck-tani.com/ko/tools/devtools)
 | 도구 | 링크 |
@@ -112,6 +117,13 @@
 | 유니코드 문자 분석기 | [teck-tani.com/ko/unicode-inspector](https://teck-tani.com/ko/unicode-inspector) |
 | JSON 구조 비교기 | [teck-tani.com/ko/json-diff](https://teck-tani.com/ko/json-diff) |
 | Markdown 표 생성기 | [teck-tani.com/ko/markdown-table-generator](https://teck-tani.com/ko/markdown-table-generator) |
+| XML 포맷터 | [teck-tani.com/ko/xml-formatter](https://teck-tani.com/ko/xml-formatter) |
+| HTTP 상태 코드 찾기 | [teck-tani.com/ko/http-status-codes](https://teck-tani.com/ko/http-status-codes) |
+| MIME 타입 찾기 | [teck-tani.com/ko/mime-types](https://teck-tani.com/ko/mime-types) |
+| JS·SQL 문자열 이스케이프 | [teck-tani.com/ko/string-escape](https://teck-tani.com/ko/string-escape) |
+| CSS 박스 그림자 생성기 | [teck-tani.com/ko/box-shadow-generator](https://teck-tani.com/ko/box-shadow-generator) |
+| CSS 그라데이션 생성기 | [teck-tani.com/ko/gradient-generator](https://teck-tani.com/ko/gradient-generator) |
+
 
 ## 관련 사이트
 - 🧮 계산기 모음 → [calc-tani.com](https://calc-tani.com)
