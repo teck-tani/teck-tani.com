@@ -4,7 +4,7 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (140종)
+## 도구 목록 (148종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
@@ -48,6 +48,8 @@
 ### 📝 텍스트/변환 — [전체 보기](https://teck-tani.com/ko/tools/text)
 | 도구 | 링크 |
 |------|------|
+| 타자 속도 측정 | [teck-tani.com/ko/typing-speed-test](https://teck-tani.com/ko/typing-speed-test) |
+| 맞춤법 퀴즈 | [teck-tani.com/ko/spelling-quiz](https://teck-tani.com/ko/spelling-quiz) |
 | 이모지 모음 & 특수문자 | [teck-tani.com/ko/special-characters](https://teck-tani.com/ko/special-characters) |
 | 글자수 세기 | [teck-tani.com/ko/character-counter](https://teck-tani.com/ko/character-counter) |
 | 단위 변환기 | [teck-tani.com/ko/unit-converter](https://teck-tani.com/ko/unit-converter) |
@@ -90,6 +92,12 @@
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
 |------|------|
+| 초성 퀴즈 | [teck-tani.com/ko/chosung-quiz](https://teck-tani.com/ko/chosung-quiz) |
+| 집중력 게임 · 숫자 찾기·색말 | [teck-tani.com/ko/concentration-test](https://teck-tani.com/ko/concentration-test) |
+| 색각 참고 체험·숫자 점판 | [teck-tani.com/ko/color-blind-test](https://teck-tani.com/ko/color-blind-test) |
+| 음감 연습 테스트 | [teck-tani.com/ko/pitch-test](https://teck-tani.com/ko/pitch-test) |
+| 숫자 기억력 테스트 | [teck-tani.com/ko/number-memory-test](https://teck-tani.com/ko/number-memory-test) |
+| 동체시력 연습 게임 | [teck-tani.com/ko/dynamic-vision-test](https://teck-tani.com/ko/dynamic-vision-test) |
 | 점수판·스코어보드 | [teck-tani.com/ko/scoreboard](https://teck-tani.com/ko/scoreboard) |
 | 빙고판 생성기 | [teck-tani.com/ko/bingo-generator](https://teck-tani.com/ko/bingo-generator) |
 | 진실 혹은 도전 | [teck-tani.com/ko/truth-or-dare](https://teck-tani.com/ko/truth-or-dare) |
