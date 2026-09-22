@@ -4,11 +4,16 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (115종)
+## 도구 목록 (120종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
 |------|------|
+| 이미지 자르기 | [teck-tani.com/ko/image-crop](https://teck-tani.com/ko/image-crop) |
+| 이미지 회전·반전 | [teck-tani.com/ko/image-rotate](https://teck-tani.com/ko/image-rotate) |
+| 이미지 필터 | [teck-tani.com/ko/image-filter](https://teck-tani.com/ko/image-filter) |
+| 밈 만들기 | [teck-tani.com/ko/meme-generator](https://teck-tani.com/ko/meme-generator) |
+| 스크린샷 꾸미기 | [teck-tani.com/ko/screenshot-beautifier](https://teck-tani.com/ko/screenshot-beautifier) |
 | 바코드 생성기 | [teck-tani.com/ko/barcode](https://teck-tani.com/ko/barcode) |
 | QR코드 생성기 | [teck-tani.com/ko/qr-generator](https://teck-tani.com/ko/qr-generator) |
 | 이미지 압축기 | [teck-tani.com/ko/image-compressor](https://teck-tani.com/ko/image-compressor) |
