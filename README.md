@@ -4,11 +4,13 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 모든 데이터는 브라우저에서만 처리되며 서버로 전송되지 않습니다.
 
-## 도구 목록 (129종)
+## 도구 목록 (136종)
 
 ### 🖼️ 이미지/미디어 — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
 |------|------|
+| 이미지 SVG 벡터화 | [teck-tani.com/ko/image-to-svg](https://teck-tani.com/ko/image-to-svg) |
+| 도트·픽셀아트 변환 | [teck-tani.com/ko/pixel-art-converter](https://teck-tani.com/ko/pixel-art-converter) |
 | 프로필 원형 자르기 | [teck-tani.com/ko/circle-crop](https://teck-tani.com/ko/circle-crop) |
 | 액자·폴라로이드 프레임 | [teck-tani.com/ko/photo-frame](https://teck-tani.com/ko/photo-frame) |
 | 이미지 모서리 둥글게 | [teck-tani.com/ko/rounded-corner](https://teck-tani.com/ko/rounded-corner) |
@@ -88,6 +90,11 @@
 ### 🎲 생활/재미 — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
 |------|------|
+| 이상형 월드컵 만들기 | [teck-tani.com/ko/world-cup-maker](https://teck-tani.com/ko/world-cup-maker) |
+| 가위바위보 | [teck-tani.com/ko/rock-paper-scissors](https://teck-tani.com/ko/rock-paper-scissors) |
+| 자리 배치·자리뽑기 | [teck-tani.com/ko/seat-randomizer](https://teck-tani.com/ko/seat-randomizer) |
+| 랜덤 닉네임 생성기 | [teck-tani.com/ko/nickname-generator](https://teck-tani.com/ko/nickname-generator) |
+| 랜덤 질문·대화 주제 | [teck-tani.com/ko/random-question](https://teck-tani.com/ko/random-question) |
 | 로또 번호 생성기 | [teck-tani.com/ko/lotto-generator](https://teck-tani.com/ko/lotto-generator) |
 | 사다리 타기 | [teck-tani.com/ko/ladder-game](https://teck-tani.com/ko/ladder-game) |
 | 궁합 테스트 | [teck-tani.com/ko/compatibility-checker](https://teck-tani.com/ko/compatibility-checker) |
