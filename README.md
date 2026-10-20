@@ -4,9 +4,9 @@
 
 일상생활과 업무에 필요한 다양한 웹 도구를 무료로 제공합니다. 브라우저 처리 도구를 중심으로 제공하며, 네트워크·음성 기능의 처리 방식은 각 도구 안내에서 확인할 수 있습니다.
 
-## 도구 목록 (462종)
+## 도구 목록 (454종)
 
-### 🖼️ 이미지/미디어 (113종) — [전체 보기](https://teck-tani.com/ko/tools/image)
+### 🖼️ 이미지/미디어 (111종) — [전체 보기](https://teck-tani.com/ko/tools/image)
 | 도구 | 링크 |
 |------|------|
 | 이미지 세부 확대 도구 | [teck-tani.com/ko/image-super-resolution](https://teck-tani.com/ko/image-super-resolution) |
@@ -81,8 +81,6 @@
 | 영상 개인정보 가림기 | [teck-tani.com/ko/video-privacy-masker](https://teck-tani.com/ko/video-privacy-masker) |
 | 영상 로토스코프 마스크 편집기 | [teck-tani.com/ko/rotoscope-mask-editor](https://teck-tani.com/ko/rotoscope-mask-editor) |
 | 영상 움직임 좌표 추적기 | [teck-tani.com/ko/video-motion-tracker](https://teck-tani.com/ko/video-motion-tracker) |
-| 영상 중간 프레임 만들기 | [teck-tani.com/ko/video-frame-interpolator](https://teck-tani.com/ko/video-frame-interpolator) |
-| 화면 해설 편집기 | [teck-tani.com/ko/audio-description-editor](https://teck-tani.com/ko/audio-description-editor) |
 | 영상·음성 싱크 맞추기 | [teck-tani.com/ko/video-audio-sync-lab](https://teck-tani.com/ko/video-audio-sync-lab) |
 | 동영상 자르기 | [teck-tani.com/ko/video-trimmer](https://teck-tani.com/ko/video-trimmer) |
 | GIF 프레임 추출 | [teck-tani.com/ko/gif-splitter](https://teck-tani.com/ko/gif-splitter) |
@@ -123,7 +121,7 @@
 | 동영상 압축 (용량 줄이기) | [teck-tani.com/ko/video-compressor](https://teck-tani.com/ko/video-compressor) |
 | 배경 제거 (누끼따기) | [teck-tani.com/ko/background-remover](https://teck-tani.com/ko/background-remover) |
 
-### 📝 텍스트/변환 (76종) — [전체 보기](https://teck-tani.com/ko/tools/text)
+### 📝 텍스트/변환 (75종) — [전체 보기](https://teck-tani.com/ko/tools/text)
 | 도구 | 링크 |
 |------|------|
 | Word 스타일 검사기 | [teck-tani.com/ko/docx-style-auditor](https://teck-tani.com/ko/docx-style-auditor) |
@@ -184,7 +182,6 @@
 | 텍스트 비교기 | [teck-tani.com/ko/text-diff](https://teck-tani.com/ko/text-diff) |
 | PDF 합치기/분리 | [teck-tani.com/ko/pdf-manager](https://teck-tani.com/ko/pdf-manager) |
 | 영업일 계산기 | [teck-tani.com/ko/business-day-calculator](https://teck-tani.com/ko/business-day-calculator) |
-| 캘린더 반복 규칙 실험실 | [teck-tani.com/ko/icalendar-rule-lab](https://teck-tani.com/ko/icalendar-rule-lab) |
 | 주소록 파일 편집기 | [teck-tani.com/ko/vcard-addressbook-editor](https://teck-tani.com/ko/vcard-addressbook-editor) |
 | JPG PDF 변환 | [teck-tani.com/ko/jpg-to-pdf](https://teck-tani.com/ko/jpg-to-pdf) |
 | 한글이름 영문변환 | [teck-tani.com/ko/korean-name-romanizer](https://teck-tani.com/ko/korean-name-romanizer) |
@@ -203,7 +200,7 @@
 | 영문주소 변환기 | [teck-tani.com/ko/english-address](https://teck-tani.com/ko/english-address) |
 | PDF 압축 (용량 줄이기) | [teck-tani.com/ko/pdf-compressor](https://teck-tani.com/ko/pdf-compressor) |
 
-### 🎲 생활/재미 (99종) — [전체 보기](https://teck-tani.com/ko/tools/life)
+### 🎲 생활/재미 (95종) — [전체 보기](https://teck-tani.com/ko/tools/life)
 | 도구 | 링크 |
 |------|------|
 | 가쿠로 합 퍼즐 | [teck-tani.com/ko/kakuro-studio](https://teck-tani.com/ko/kakuro-studio) |
@@ -240,15 +237,11 @@
 | 체스 전술 연습판 | [teck-tani.com/ko/chess-tactics-board](https://teck-tani.com/ko/chess-tactics-board) |
 | 포물선 운동 실험실 | [teck-tani.com/ko/projectile-motion-lab](https://teck-tani.com/ko/projectile-motion-lab) |
 | 자·컴퍼스 작도 실험실 | [teck-tani.com/ko/geometry-construction-lab](https://teck-tani.com/ko/geometry-construction-lab) |
-| 단어 어원 지도 | [teck-tani.com/ko/etymology-map-explorer](https://teck-tani.com/ko/etymology-map-explorer) |
 | 발음 비교 연습기 | [teck-tani.com/ko/pronunciation-comparison-studio](https://teck-tani.com/ko/pronunciation-comparison-studio) |
 | 읽기 연습 리더 | [teck-tani.com/ko/reading-pacer](https://teck-tani.com/ko/reading-pacer) |
-| 발음 기호 탐색기 | [teck-tani.com/ko/phonetic-transcription-lab](https://teck-tani.com/ko/phonetic-transcription-lab) |
 | 확률 실험실 | [teck-tani.com/ko/probability-experiment-lab](https://teck-tani.com/ko/probability-experiment-lab) |
-| 주기율 경향 탐구 | [teck-tani.com/ko/periodic-trend-lab](https://teck-tani.com/ko/periodic-trend-lab) |
 | 방정식 저울 실험실 | [teck-tani.com/ko/algebra-balance-lab](https://teck-tani.com/ko/algebra-balance-lab) |
 | 소리·철자 조립 연습기 | [teck-tani.com/ko/phonics-word-builder](https://teck-tani.com/ko/phonics-word-builder) |
-| 복습 카드 학습기 | [teck-tani.com/ko/spaced-repetition-cards](https://teck-tani.com/ko/spaced-repetition-cards) |
 | 서비스 블루프린트 작성기 | [teck-tani.com/ko/service-blueprint-designer](https://teck-tani.com/ko/service-blueprint-designer) |
 | 조직 관계도 편집기 | [teck-tani.com/ko/organization-chart-editor](https://teck-tani.com/ko/organization-chart-editor) |
 | 프로젝트 위험 대장 | [teck-tani.com/ko/project-risk-register](https://teck-tani.com/ko/project-risk-register) |
@@ -306,7 +299,7 @@
 | 꿈해몽 사전 | [teck-tani.com/ko/dream-dictionary](https://teck-tani.com/ko/dream-dictionary) |
 | 키보드 테스트 | [teck-tani.com/ko/keyboard-test](https://teck-tani.com/ko/keyboard-test) |
 
-### 🛠️ 개발 도구 (174종) — [전체 보기](https://teck-tani.com/ko/tools/devtools)
+### 🛠️ 개발 도구 (173종) — [전체 보기](https://teck-tani.com/ko/tools/devtools)
 | 도구 | 링크 |
 |------|------|
 | WebAssembly 모듈 검사기 | [teck-tani.com/ko/wasm-module-inspector](https://teck-tani.com/ko/wasm-module-inspector) |
@@ -412,7 +405,6 @@
 | HTML 검색 기본 검사기 | [teck-tani.com/ko/seo-html-auditor](https://teck-tani.com/ko/seo-html-auditor) |
 | 접근성 구조 검사기 | [teck-tani.com/ko/accessibility-tree-auditor](https://teck-tani.com/ko/accessibility-tree-auditor) |
 | RSS·Atom 피드 작성기 | [teck-tani.com/ko/syndication-feed-workbench](https://teck-tani.com/ko/syndication-feed-workbench) |
-| IndexNow 배포 알림 준비기 | [teck-tani.com/ko/indexnow-payload-builder](https://teck-tani.com/ko/indexnow-payload-builder) |
 | 검색 로봇 로그 분석기 | [teck-tani.com/ko/crawl-log-analyzer](https://teck-tani.com/ko/crawl-log-analyzer) |
 | CSP 정책 검토기 | [teck-tani.com/ko/csp-policy-workbench](https://teck-tani.com/ko/csp-policy-workbench) |
 | 검색 실적 CSV 분석기 | [teck-tani.com/ko/search-performance-analyzer](https://teck-tani.com/ko/search-performance-analyzer) |
